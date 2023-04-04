@@ -1,0 +1,9 @@
+header, footer {
+    background-color: #d18d8d;
+    color: #5c5858;
+    padding: 2em;
+}
+
+img{
+    border-radius: 50%;
+}
