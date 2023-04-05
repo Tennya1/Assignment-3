@@ -15,7 +15,7 @@ main {
 }
 
 section {
-  border: 10px solid #ed9ce2;
+  border: 10px solid lightcoral;
   padding: 1em;
   margin: 0;
   font-size: 22pt;
@@ -65,9 +65,6 @@ h2 {
   font-size: 20px;
   text-align: center;
  }
-
-
-
 
 
   p{
